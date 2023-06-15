@@ -1,0 +1,92 @@
+.register__img {
+  width: 60%;
+  text-align: center;
+  border: 1px solid #ccc;
+  margin-bottom: -2px;
+  border-radius: 10px;
+}
+
+.register__img img {
+  width: 90%;
+  height: 90%;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.register__form {
+  border-radius: 10px;
+  padding: 30px;
+  background: var(--secondary-color);
+  position: relative;
+}
+
+.register__container {
+  box-shadow: rgba(17, 12, 46, 0.15);
+  margin-top: 100px;
+  border-radius: 5px;
+}
+
+.register__form .user {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: -9%;
+  left: 50%;
+  transform: translate(-50%, -9%);
+}
+
+.register__form .user img {
+  width: 100%;
+}
+
+.register__form h2 {
+  color: #fff;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.register__form {
+  width: 40%;
+}
+
+.register__form input {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  color: var(--heading-color);
+}
+
+.register__form input:focus {
+  outline: none;
+}
+
+.auth__btn {
+  background: #444 !important;
+  width: 100%;
+  color: #fff !important;
+}
+.options .forgot__password {
+  text-align: right !important;
+  margin-left: 30px;
+}
+
+.options input {
+  width: 15px;
+  margin-bottom: 0;
+}
+.register__form p {
+  font-size: 0.9rem;
+  color: #fff;
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.register__form p a {
+  color: var(--heading-color);
+  text-decoration: none;
+  margin-left: 5px;
+  font-weight: 500;
+}

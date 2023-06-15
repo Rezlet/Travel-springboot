@@ -1,0 +1,123 @@
+[
+  
+  {
+    "title": "Paris",
+    "city": "Paris",
+    "address": "Paris",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Paris",
+    "reviews": [
+      
+    ],
+
+    "photo": "../Images/tour_hochiminh_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mui ca Mau",
+    "city": "Ca Mau",
+    "address": "Mui Ca Mau- Viet Nam",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_camau_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Can Thoi",
+    "city": "VietNam",
+    "address": "Can Tho Viet Nam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_cantho_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lăng Chủ Tịch Hồ Chí Minh",
+    "city": "Hà Nội",
+    "address": "Ba Đình- Hà Nội _ Việt Nam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_hanoi_img.jpg",
+    "featured": true
+  },
+  {
+    "title": " Biển Nha Trang",
+    "city": "Khánh Hòa",
+    "address": "Nha Trang- Khánh Hòa- Việt Nam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_khanhhoa_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Cầu Vàng",
+    "city": "Đà Nẵng",
+    "address": "Đà Nẵng-Việt Nam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_danang_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sapa",
+    "city": "Lào Cai",
+    "address": "Sapa- Lào Cai- Việt Nam",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_sapa_img.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Chợ bến Thành- Quận 1",
+    "city": "Hồ Chí Minh",
+    "address": "Quận 1- Hồ CHí Minh - Việt Nam",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "../Images/tour_hochiminh_img.avif",
+    "featured": false
+  }
+ 
+]
